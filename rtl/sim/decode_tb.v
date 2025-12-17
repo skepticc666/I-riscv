@@ -50,6 +50,7 @@ module decode_tb();
         PCPlus4D = 32'h52;
         ResultW = 32'h53;
         RDW = 5'h15;
+        #30
         $finish;
 
 
